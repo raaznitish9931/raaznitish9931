@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaznitish9931&show_icons=true&locale=en&layout=compact" alt="raaznitish9931" /></p>
+![](https://github-readme-stats.vercel.app/api?username=raaznitish9931&theme=radical&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=raaznitish9931&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raaznitish9931&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaznitish9931&show_icons=true&locale=en" alt="raaznitish9931" /></p>
 
 
