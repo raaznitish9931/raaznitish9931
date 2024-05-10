@@ -8,7 +8,7 @@
 
 
 ## ♨️ About Me:
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, gsap, locomotive, swiperjs**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, gsap, locomotive, swiperJS**
 
 - 📫 How to reach me **raaznitish9931@gmail.com**
 
@@ -24,6 +24,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=raaznitish9931&theme=radical&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=raaznitish9931&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raaznitish9931&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## Figma Projects
+
+
+
 
 
 
