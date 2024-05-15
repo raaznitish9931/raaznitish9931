@@ -3,8 +3,21 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaznitish9931" alt="raaznitish9931" /></a> </p>
+### Nitish Kumar !
 
+Backend Development (Currently Learning)
+
+### Skills
+Front-end Development:
+Proficient in HTML for structuring web content.
+Strong command of CSS for styling web pages.
+Advanced knowledge of JavaScript for building dynamic and interactive user interfaces.
+
+Database Management:
+Proficient in Database Management Systems (DBMS) concepts.
+Strong command of SQL for data manipulation and querying.
+Experience in designing and implementing database schemas.
+Familiarity with relational database systems like MySQL and PostgreSQL.
 
 
 ## ♨️ About Me:
