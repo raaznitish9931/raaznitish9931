@@ -2,21 +2,19 @@
 ### Nitish Kumar !
 
 
- <ul>
        <b> SKILLS</b> <br>
-        Front-end Development : HTML , CSS , JavaScript
-   
-        <br>
-        <b>DBMS</b>
-        <li>Proficient in Database Management Systems (DBMS) concepts.</li>
-        <li>Strong command of SQL for data manipulation and querying.</li>
-        <li>Experience in designing and implementing database schemas.</li>
-        <li>Familiarity with relational database systems like MySQL and PostgreSQL.</li>
+       
+       <ul>
+      <li>  Front-end Development : HTML , CSS , JavaScript </li>  
+        <LI>Java</LI>
+         <li>DBMS</li>
+       <li>  UI/UX : Figma  </li>
     </ul>
-
+   
+   
 
 ## ♨️ About Me:
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, gsap, locomotive, swiperJS**
+- 🌱  Currently Learning  :  Backend Development
 
 - 📫 How to reach me **raaznitish9931@gmail.com**
 
