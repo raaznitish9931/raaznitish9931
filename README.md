@@ -4,10 +4,8 @@
 
  <ul>
        <b> SKILLS</b> <br>
-        #Front-end Development
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>avaScript</li>
+        Front-end Development : HTML , CSS , JavaScript
+   
         <br>
         <b>DBMS</b>
         <li>Proficient in Database Management Systems (DBMS) concepts.</li>
