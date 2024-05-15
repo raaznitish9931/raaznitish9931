@@ -1,24 +1,21 @@
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Enthusiastic+Programmer;Front+End+Developer;Back+End+Developer'/>
-</div>
-
-
 
 ### Nitish Kumar !
 
 Backend Development (Currently Learning)
 
-### Skills
-Front-end Development: <br>
-Proficient in HTML for structuring web content.<br>
-Strong command of CSS for styling web pages.<br>
-Advanced knowledge of JavaScript for building dynamic and interactive user interfaces.<br>
-
-Database Management:
-Proficient in Database Management Systems (DBMS) concepts.
-Strong command of SQL for data manipulation and querying.
-Experience in designing and implementing database schemas.
-Familiarity with relational database systems like MySQL and PostgreSQL.
+ <ul>
+       <b> SKILLS</b>
+        <li>Front-end Development:</li>
+        <li>Proficient in HTML for structuring web content.</li>
+        <li>Strong command of CSS for styling web pages.</li>
+        <li>Advanced knowledge of JavaScript for building dynamic and interactive user interfaces.</li>
+        <br>
+        <b>DBMS</b>
+        <li>Proficient in Database Management Systems (DBMS) concepts.</li>
+        <li>Strong command of SQL for data manipulation and querying.</li>
+        <li>Experience in designing and implementing database schemas.</li>
+        <li>Familiarity with relational database systems like MySQL and PostgreSQL.</li>
+    </ul>
 
 
 ## ♨️ About Me:
