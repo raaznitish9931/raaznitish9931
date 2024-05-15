@@ -1,10 +1,10 @@
 
 ### Nitish Kumar !
 
-Backend Development (Currently Learning)
 
  <ul>
-       <b> SKILLS</b>
+       <b> SKILLS</b> br
+  
         #Front-end Development
         <li>HTML</li>
         <li>CSS</li>
