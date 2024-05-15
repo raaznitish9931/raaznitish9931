@@ -1,15 +1,14 @@
 
 ### Nitish Kumar !
+"Passionate and detail-focused fourth-year B.Tech student studying Electronics and Communication Engineering.  <br> I have a strong interest and skill in Web Development, UI/UX Design, and Java Programming. <br>  Committed to using creative solutions to engage users and make digital experiences smooth."
 
+   ### SKILLS
 
-       <b> SKILLS</b> <br>
-       
-       <ul>
-      <li>  Front-end Development : HTML , CSS , JavaScript </li>  
-        <LI>Java</LI>
-         <li>DBMS</li>
-       <li>  UI/UX : Figma  </li>
-    </ul>
+- Front-end Development: HTML, CSS, JavaScript
+- Java
+- DBMS
+- UI/UX: Figma
+
    
    
 
