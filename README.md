@@ -1,6 +1,7 @@
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Enthusiastic+Programmer;Front+End+Developer;Back+End+Developer'/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
 
 
 ### Nitish Kumar !
