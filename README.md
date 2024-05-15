@@ -3,8 +3,7 @@
 
 
  <ul>
-       <b> SKILLS</b> br
-  
+       <b> SKILLS</b>
         #Front-end Development
         <li>HTML</li>
         <li>CSS</li>
