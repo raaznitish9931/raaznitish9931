@@ -5,10 +5,10 @@ Backend Development (Currently Learning)
 
  <ul>
        <b> SKILLS</b>
-        <li>Front-end Development:</li>
-        <li>Proficient in HTML for structuring web content.</li>
-        <li>Strong command of CSS for styling web pages.</li>
-        <li>Advanced knowledge of JavaScript for building dynamic and interactive user interfaces.</li>
+        #Front-end Development
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>avaScript</li>
         <br>
         <b>DBMS</b>
         <li>Proficient in Database Management Systems (DBMS) concepts.</li>
