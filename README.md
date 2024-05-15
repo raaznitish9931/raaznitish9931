@@ -1,5 +1,5 @@
 
-### Nitish Kumar !
+### Nitish Kumar ... 👋
 "Passionate and detail-focused fourth-year B.Tech student studying Electronics and Communication Engineering.  <br> I have a strong interest and skill in Web Development, UI/UX Design, and Java Programming. <br>  Committed to using creative solutions to engage users and make digital experiences smooth."
 
    ### SKILLS
