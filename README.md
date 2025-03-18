@@ -7,10 +7,11 @@
 
    ### SKILLS
 
-- Front-end Development: HTML, CSS, JavaScript
-- Java
-- DBMS
-- UI/UX: Figma
+- Programming Languages: Java, JavaScript.
+- Frontend Development: HTML, CSS, Tailwind CSS.
+- Backend Development: Node.js, Express.js, EJS.
+- Database Management: DBMS, MongoDB.
+- Development Tools & Design: Visual Studio Code, GitHub, Figma
 
 <br>
 
